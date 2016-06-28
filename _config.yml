@@ -1,0 +1,28 @@
+name: Ento Bar
+favicon: null
+layout_spectrum: 0.5406342844944447
+typography_spectrum: 0.8358039881568402
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6258157333359122
+  lightness: 0.5610836884006858
+  saturation: 0.46139484783634543
+  rhythmicContrast: 0.8358553373254836
+purpose: []
